@@ -1,3 +1,4 @@
+import '../styles/addImage.css'
 // addImage.js
 let smallImg = document.createElement('img')
 // 必须 require 进来
